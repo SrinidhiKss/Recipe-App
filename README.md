@@ -15,4 +15,5 @@ In the recipe book example, you can:
    # To-Run
    
    -Open the recipe-book folder
+   
    -Open index.html to view it in the browser
